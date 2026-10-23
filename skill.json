@@ -1,0 +1,10 @@
+{
+  "name": "genpark-personal-agent-blood-urea-nitrogen-creatinine-hydration-skill",
+  "version": "1.0.0",
+  "description": "Personal Agent BUN Creatinine Hydration Skill",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "license": "MIT"
+}
